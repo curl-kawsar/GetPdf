@@ -1,4 +1,4 @@
-## How to Install?
+<h1 align="center">How to Install?</h1>
 1. Download the zip or Clone the Repo
 <img width="900" src="https://github.com/curl-kawsar/GetPdf/blob/main/gt/step1.PNG">
 2. Make A new Folder name 'uploads'
